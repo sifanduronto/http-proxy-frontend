@@ -1,8 +1,7 @@
 .DS_Store
 /node_modules
 /dist
-proxy-frontend/node_modules
-proxy-frontend/package-lock.json
+package-lock.json
 
 
 # local env files
